@@ -34,7 +34,3 @@ Explore some of my top repositories:
 ## 📬 Contact
 
 Feel free to connect with me on GitHub or reach out through the contact info provided on the website.
-
----
-
-Ready to add this README.md to your repository? If you want to make any changes or add extra details, let me know!
